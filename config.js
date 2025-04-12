@@ -4,13 +4,13 @@
 // Development URL
 ////////////////////
 
-//var serverUrl = "http://localhost:3001/api/v1/business";
+var serverUrl = "http://localhost:3001/api/v1/business";
 
 
 /////////////////////////
 // Production URL
 //////////////////////////
-var serverUrl = "https://filipworks.com/api/api/v1/business"
+//var serverUrl = "https://filipworks.com/api/api/v1/business"
 
 
 async function GetUser(id){

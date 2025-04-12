@@ -33,3 +33,9 @@ li {
 #toast-container > .toast-success:before {
     content: "\f002";
 }
+
+#customizedFormLabel {
+    color: #00008b; /* Dark blue */
+    font-size: 20px;
+    font-weight: bold;
+}
